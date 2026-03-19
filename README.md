@@ -45,3 +45,8 @@ printf("The Sum of two numbers : %d ",sum);
 return );
 <br>
 }
+<br>
+
+Hey there ! What's going on ? 
+<br>
+Let me know if somethinhg there that i can help with .
