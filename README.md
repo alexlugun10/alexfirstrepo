@@ -49,4 +49,4 @@ return );
 
 Hey there ! What's going on ? 
 <br>
-Let me know if somethinhg there that i can help with .
+Let me know if something that i can help with .
